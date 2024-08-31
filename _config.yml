@@ -11,6 +11,8 @@ description: I am a PhD student at the University of Gdansk. My research topic i
 email: "tomek.mlynik@gmail.com"
 
 show_downloads: true
+gmail: true
+gmail_url: tomek.mlynik@gmail.com
 
 footer-links:
   email: "tomek.mlynik@gmail.com"
