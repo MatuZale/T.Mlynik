@@ -20,4 +20,6 @@ description:
   orcid_id: https://orcid.org/0000-0003-4182-907X
   linkedin_username: https://www.linkedin.com/in/tomasz-młynik-949659163/
 
+show_downloads: false
+
 theme: jekyll-theme-minimal
