@@ -30,3 +30,6 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 2. July 2022: Lisbon, Portugal – QCMC, entitled “Transformation of an unknown unitary operation: complex conjugation”.
 3. Jun 2022: Poster in Seefeld, Austria – Quantum information 2022, entitled “Transformation of an unknown unitary operation: complex conjugation”.
 4. Mar 2023: Seminar in Toruń, Poland entitled „Krzywa rotacji naszej galaktyki?”.
+
+#### Contact me
+tomek.mlynik@gmail.com
