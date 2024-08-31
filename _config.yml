@@ -1,13 +1,14 @@
 title: Tomasz Młynik
 
-image : "/image/zdj_pr.png"
+avatar: "/assets/zdj_pr.png"
+round-avatar: true
 
 description: I am a PhD student at the University of Gdansk. My research topic is on  Positive maps, Convex structure of positive maps, Quantum information theory, Higher-order transformations and Group theory, Representation theory.
 #show_feedback: true
 #feedback_email: tomek.mlynik [at] gmail.com
 #orcid_id: "https://orcid.org/0000-0003-4182-907X"
 #linkedin_username: "https://www.linkedin.com/in/tomasz-młynik-949659163/"
-email: "tomek.mlynik [at] gmail.com"
+email: "tomek.mlynik@gmail.com"
 social-network-links:
   email: "tomek.mlynik [at] gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
@@ -41,18 +42,6 @@ social-network-links:
 #  gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
-
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
 
 
 show_downloads: true
