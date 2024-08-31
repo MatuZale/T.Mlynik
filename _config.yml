@@ -1,9 +1,9 @@
 title: Tomasz Młynik
 
-avatar: "/image/zdj_pr.png"
+iamge: "/image/zdj_pr.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 description: I am a PhD student at the University of Gdansk. My research topic is on  Positive maps, Convex structure of positive maps, Quantum information theory, Higher-order transformations and Group theory, Representation theory.
 
