@@ -6,10 +6,44 @@ avatar: "/image/zdj_pr.png"
 round-avatar: true
 
 description: I am a PhD student at the University of Gdansk. My research topic is on  Positive maps, Convex structure of positive maps, Quantum information theory, Higher-order transformations and Group theory, Representation theory.
-show_feedback: true
-feedback_email: tomek.mlynik [at] gmail.com
-orcid_id: "https://orcid.org/0000-0003-4182-907X"
-linkedin_username: "https://www.linkedin.com/in/tomasz-młynik-949659163/"
+#show_feedback: true
+#feedback_email: tomek.mlynik [at] gmail.com
+#orcid_id: "https://orcid.org/0000-0003-4182-907X"
+#linkedin_username: "https://www.linkedin.com/in/tomasz-młynik-949659163/"
+
+social-network-links:
+  email: "tomek.mlynik [at] gmail.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  github: daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  #whatsapp: 15551212
+#  medium: yourname
+#  reddit: yourname
+  linkedin: "https://www.linkedin.com/in/tomasz-młynik-949659163/"
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  bluesky: yourname
+  ORCID: "https://orcid.org/0000-0003-4182-907X"
+#  google-scholar: your google scholar
+#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+#  kaggle: yourname
+#  hackerrank: yourname
+#  gitlab: yourname
+#  itchio: yourname
+#  untappd: yourname
 
 show_downloads: false
 
