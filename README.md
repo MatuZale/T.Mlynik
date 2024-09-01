@@ -35,5 +35,5 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 
 #### Contact me
 **E-mail:**  <a href="mailto:tomek.mlynik@gmail.com">tomek.mlynik@gmail.com</a>
-**LinkedIn:**  <a href="https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/" target="_blank">Visit Page</a>
+**LinkedIn:**  <a href="https://www.linkedin.com/in/tomasz-młynik-949659163/" target="_blank">Visit Page</a>
 
