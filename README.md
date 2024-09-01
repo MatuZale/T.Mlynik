@@ -1,5 +1,5 @@
-#Porftolio
----
+#Porftolio 
+
 ### Education
 * Till now: Ph.D., Physics Science, University of Gdansk Thesis title: Odwzorowania k-dodatnie w Fizyce (eng. k-positive maps in physics).
 * 2019: M.Sc. Physics Science, University of Gdansk Thesis title: Nierozkładalne odwzorowania k-dodatnie na algebrach macierzowych (eng.k-positive indecomposable maps on matrix algebras).
@@ -31,5 +31,9 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 3. Jun 2022: Poster in Seefeld, Austria – Quantum information 2022, entitled “Transformation of an unknown unitary operation: complex conjugation”.
 4. Mar 2023: Seminar in Toruń, Poland entitled „Krzywa rotacji naszej galaktyki?”.
 
+### **CV:**  <a href="https://github.com/MatuZale/T.Mlynik.github.io/blob/main/pdf/cv.pdf" target="_blank">Visit Page</a>
+
 #### Contact me
-tomek.mlynik [at] gmail.com
+**E-mail:**  <a href="mailto:tomek.mlynik@gmail.com">tomek.mlynik@gmail.com</a>
+**LinkedIn:**  <a href="https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/" target="_blank">Visit Page</a>
+
