@@ -32,4 +32,4 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 4. Mar 2023: Seminar in Toruń, Poland entitled „Krzywa rotacji naszej galaktyki?”.
 
 #### Contact me
-tomek.mlynik@gmail.com
+tomek.mlynik [at] gmail.com
