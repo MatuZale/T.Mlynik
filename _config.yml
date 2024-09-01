@@ -1,24 +1,16 @@
-title: Tomasz Młynik
+title: Tomasz Młynik  # Add a space after the period
 
-avatar: "image/zdj_pr.png"
-round-avatar: true
+logo: image/zdj_pr.png # Use a relative path to logo image 
 
-description: I am a PhD student at the University of Gdansk. My research topic is on  Positive maps, Convex structure of positive maps, Quantum information theory, Higher-order transformations and Group theory, Representation theory.
-#show_feedback: true
-#feedback_email: tomek.mlynik [at] gmail.com
-#orcid_id: "https://orcid.org/0000-0003-4182-907X"
-#linkedin_username: "https://www.linkedin.com/in/tomasz-młynik-949659163/"
-email: "tomek.mlynik [at] gmail.com"
+description: I am a PhD student at the University of Gdansk. My research topic is on  Positive maps, Convex structure of positive maps, Quantum information theory, Higher-order transformations and Group theory, Representation theory. # Fix hyphenation 
 
-show_downloads: true
-gmail: true
-gmail_url: tomek.mlynik [at] gmail.com
+show_downloads: true # Fix spelling
 
-footer-links:
-  email: "tomek.mlynik [at] gmail.com"
-  linkedin: "https://www.linkedin.com/in/tomasz-młynik-949659163/"
-  ORCID: "https://orcid.org/0000-0003-4182-907X"
+theme: jekyll-theme-minimal 
 
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
 
+google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
 
+email: tomek.mlynik@gmail.com # Allow visitors to contact you
