@@ -25,8 +25,9 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 4. Nov 2022: Quantum Fundaments and Quantum Information Theory seminar in Kyoto, Japan, Title: Construction and characterization of 1-parameter (non)decomposable maps.
 
 ### Projects and Grands
-1. (2021 - 2024): Sonata 16 - PhD student position, Symmetries and Entanglement in Quantum Circuits.
-2. (2021 - 2022): UGrants start 2 - PI, On a class of k-entanglement witness.
+1. (2021 - 2024): NCN, Sonata 16 - PhD student position, Symmetries and Entanglement in Quantum Circuits.
+2. (2022): NAVA. Academic Exchange “International scholarship exchange of PhD candidates and academic staff”.
+3. (2021 - 2022): UG, UGrants start 2 - PI, On a class of k-entanglement witness.
 
 
 ### Selected Presentations
@@ -36,9 +37,9 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 4. Mar 2015: Seminar in Toruń, Poland entitled „Krzywa rotacji naszej galaktyki?”.
 
 ### Previous teaching activities 
-1. Algebra - 1st year UG,
-2. Stochastic processes - 2nd year UG,
-3. Functional analysis - 1st year UG,
+1. Algebra - 1st year UG.
+2. Stochastic processes - 2nd year UG.
+3. Functional analysis - 1st year UG.
 4. Python with the basics of algorithms - 2nd year UG.
 
 
