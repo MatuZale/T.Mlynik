@@ -44,7 +44,7 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 5. Advanced Theoretical Mathematics in Physics - 1st year UG.
 
 
-### **CV:**  <a href="https://github.com/MatuZale/T.Mlynik.github.io/blob/main/pdf/cv.pdf" target="_blank">Visit Page</a>
+### **CV:**  <a href="https://github.com/MatuZale/T.Mlynik/blob/main/pdf/CV_Tomasz_Mlynik.pdf" target="_blank">Visit Page</a>
 
 #### Contact me
 **E-mail:**  <a href="mailto:tomek.mlynik@gmail.com">tomek.mlynik@gmail.com</a>
