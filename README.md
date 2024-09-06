@@ -41,6 +41,7 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 2. Stochastic processes - 2nd year UG.
 3. Functional analysis - 1st year UG.
 4. Python with the basics of algorithms - 2nd year UG.
+5. Advanced Theoretical Mathematics in Physics - 1st year UG.
 
 
 ### **CV:**  <a href="https://github.com/MatuZale/T.Mlynik.github.io/blob/main/pdf/cv.pdf" target="_blank">Visit Page</a>
