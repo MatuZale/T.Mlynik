@@ -14,6 +14,10 @@ vol. 69, no. 8, pp. 5069–5082, Aug. 2023, issn: 1557-9654.  doi: [10.1109/ti
 of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538-3873/aa5c9b](10.1088/1538-3873/aa5c9b) / [arXiv](https://arxiv.org/abs/1503.01947)
 
 
+### Pre-publications (arXiv)
+1. T. Młynik, H. Osaka and M. Marciniak, "Characterization of $k$-positive maps" [arXiv:2104.14058 [quant-ph]](https://arxiv.org/abs/2104.14058) 
+
+
 ### Invited Talks
 1. Sep 2023: Invited talk in Tokyo University, Japan, Title: PBT with k copies of the input state
 2. Sep 2023: Yukawa International Seminar 2023 Foundations and Developments of Quantum Information Theory in Kyoto, Japan, Title: Transformation of an unknown unitary operation: complex conjugation
@@ -30,6 +34,13 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 2. July 2022: Lisbon, Portugal – QCMC, entitled “Transformation of an unknown unitary operation: complex conjugation”.
 3. Jun 2022: Poster in Seefeld, Austria – Quantum information 2022, entitled “Transformation of an unknown unitary operation: complex conjugation”.
 4. Mar 2015: Seminar in Toruń, Poland entitled „Krzywa rotacji naszej galaktyki?”.
+
+### Previous teaching activities 
+1. Algebra - 1st year UG,
+2. Stochastic processes - 2nd year UG,
+3. Functional analysis - 1st year UG,
+4. Python with the basics of algorithms - 2nd year UG.
+
 
 ### **CV:**  <a href="https://github.com/MatuZale/T.Mlynik.github.io/blob/main/pdf/cv.pdf" target="_blank">Visit Page</a>
 
