@@ -33,11 +33,12 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 
 
 ### Selected Conferences (Posters)
-1. Jun 2023: Gdansk Poland, Mathematical Structures in Quantum Mechanics entitled, Class of one-parameter k-positive maps in matrix algebras.
-2. Feb 2023: Ghent, Belgium – 26th QiP entitled, Transformation of an unknown unitary operation: complex conjugation.
-3. July 2022: Lisbon, Portugal – QCMC, entitled Transformation of an unknown unitary operation: complex conjugation.
-4. Jun 2022: Seefeld, Austria – Quantum information 2022, entitled, Transformation of an unknown unitary operation: complex conjugation.
-5. Dec 2021: QUANTUMSPEEDUP in Gdansk, Poland, entitled, Reversing unknown unitary operation via quantum combs.
+1. Jun 2023: Gdansk, Poland, Mathematical Structures in Quantum Mechanics entitled, Class of one-parameter k-positive maps in matrix algebras.
+2. Jun 2023: Torun, Poland, 54 Symposium on Mathematical Physics entitled, Transformation of an unknown unitary operation: complex conjugation.
+3. Feb 2023: Ghent, Belgium – 26th QiP entitled, Transformation of an unknown unitary operation: complex conjugation.
+4. Jul 2022: Lisbon, Portugal – QCMC, entitled Transformation of an unknown unitary operation: complex conjugation.
+5. Jun 2022: Seefeld, Austria – Quantum information 2022, entitled, Transformation of an unknown unitary operation: complex conjugation.
+6. Dec 2021: QUANTUMSPEEDUP in Gdansk, Poland, entitled, Reversing unknown unitary operation via quantum combs.
 
 ### Previous teaching activities 
 1. Algebra - 1st year UG.
