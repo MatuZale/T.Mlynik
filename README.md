@@ -19,7 +19,7 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 
 
 ### Invited Talks
-1. Sep 2023: Invited talk in Tokyo University, Japan, Title: PBT with k copies of the input state
+1. Sep 2023: Tokyo University, Japan, Title: PBT with k copies of the input state
 2. Sep 2023: Yukawa International Seminar 2023 Foundations and Developments of Quantum Information Theory in Kyoto, Japan, Title: Transformation of an unknown unitary operation: complex conjugation
 3. Aug 2023: 23rd Asian Quantum Information Science Conference in Seoul, Korea, Title: Transformation of an unknown unitary operation: complex conjugation.
 4. Nov 2022: Quantum Fundaments and Quantum Information Theory seminar in Kyoto, Japan, Title: Construction and characterization of 1-parameter (non)decomposable maps.
