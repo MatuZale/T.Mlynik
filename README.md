@@ -23,7 +23,8 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 2. Sep 2023: Yukawa International Seminar 2023 Foundations and Developments of Quantum Information Theory in Kyoto, Japan, Title: Transformation of an unknown unitary operation: complex conjugation
 3. Aug 2023: 23rd Asian Quantum Information Science Conference in Seoul, Korea, Title: Transformation of an unknown unitary operation: complex conjugation.
 4. Nov 2022: Quantum Fundaments and Quantum Information Theory seminar in Kyoto, Japan, Title: Construction and characterization of 1-parameter (non)decomposable maps.
-5. Mar 2015: Seminar in Toruń, Poland entitled „Krzywa rotacji naszej galaktyki?”.
+5. Dec 2021: QUANTUMSPEEDUP in Gdansk, Poland, Title: Reversing unknown unitary operation via quantum combs
+6. Mar 2015: Seminar in Toruń, Poland entitled „Krzywa rotacji naszej galaktyki?”.
 
 ### Projects and Grands
 1. (2021 - 2024): NCN, Sonata 16 - PhD student position, Symmetries and Entanglement in Quantum Circuits.
@@ -31,10 +32,12 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 3. (2021 - 2022): UG, UGrants start 2 - PI, On a class of k-entanglement witness.
 
 
-### Selected Conferences
-1. Feb 2023: Poster in Ghent, Belgium – 26th QiP entitled, “Transformation of an unknown unitary operation: complex conjugation”.
-2. July 2022: Poster in Lisbon, Portugal – QCMC, entitled “Transformation of an unknown unitary operation: complex conjugation”.
-3. Jun 2022: Poster in Seefeld, Austria – Quantum information 2022, entitled “Transformation of an unknown unitary operation: complex conjugation”.
+### Selected Conferences (Posters)
+1. Jun 2023: Gdansk Poland, Mathematical Structures in Quantum Mechanics entitled, Class of one-parameter k-positive maps in matrix algebras.
+2. Feb 2023: Ghent, Belgium – 26th QiP entitled, Transformation of an unknown unitary operation: complex conjugation.
+3. July 2022: Lisbon, Portugal – QCMC, entitled Transformation of an unknown unitary operation: complex conjugation.
+4. Jun 2022: Seefeld, Austria – Quantum information 2022, entitled, Transformation of an unknown unitary operation: complex conjugation.
+5. Dec 2021: QUANTUMSPEEDUP in Gdansk, Poland, entitled, Reversing unknown unitary operation via quantum combs.
 
 ### Previous teaching activities 
 1. Algebra - 1st year UG.
