@@ -15,7 +15,7 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 
 
 ### Pre-publications (arXiv)
-1. T. Młynik, H. Osaka and M. Marciniak, "Characterization of $k$-positive maps" [arXiv:2104.14058 [quant-ph]](https://arxiv.org/abs/2104.14058) 
+1. T. Młynik, H. Osaka and M. Marciniak, "Characterization of k-positive maps" [arXiv:2104.14058 [quant-ph]](https://arxiv.org/abs/2104.14058) 
 
 
 ### Invited Talks
@@ -30,7 +30,7 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 3. (2021 - 2022): UG, UGrants start 2 - PI, On a class of k-entanglement witness.
 
 
-### Selected Presentations
+### Selected Conferences
 1. Feb 2023: Poster in Ghent, Belgium – 26th QiP entitled, “Transformation of an unknown unitary operation: complex conjugation”.
 2. July 2022: Lisbon, Portugal – QCMC, entitled “Transformation of an unknown unitary operation: complex conjugation”.
 3. Jun 2022: Poster in Seefeld, Austria – Quantum information 2022, entitled “Transformation of an unknown unitary operation: complex conjugation”.
