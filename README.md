@@ -15,7 +15,8 @@ of the Pacific, vol. 129, no. 974, p. 044 101, Feb. 2017.   doi: [10.1088/1538
 
 
 ### Pre-publications (arXiv)
-1. T. Młynik, H. Osaka and M. Marciniak, "Characterization of k-positive maps" [arXiv:2104.14058 [quant-ph]](https://arxiv.org/abs/2104.14058) 
+1. T. Młynik, H. Osaka and M. Marciniak, "Characterization of k-positive maps" [arXiv:2104.14058 [quant-ph]](https://arxiv.org/abs/2104.14058)
+2. F. Grosshans, M. Horodecki, M. Murao, T. Młynik, M. T. Quintino, M Studziński and S. Yoshida, "Multicopy quantum state teleportation with application to storage and retrieval of quantum programs" [arXiv:2409.10393 [quant-ph]](https://arxiv.org/abs/2409.10393)
 
 
 ### Invited Talks
