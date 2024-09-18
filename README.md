@@ -1,7 +1,7 @@
 #Porftolio 
 
 ### Education
-* Till now: Ph.D., Physics Science, University of Gdansk Thesis title: Odwzorowania k-dodatnie w Fizyce (eng. k-positive maps in physics).
+* 2024 Ph.D., Physics Science, University of Gdansk Thesis title: Odwzorowania k-dodatnie w Fizyce (eng. k-positive maps in physics).
 * 2019: M.Sc. Physics Science, University of Gdansk Thesis title: Nierozkładalne odwzorowania k-dodatnie na algebrach macierzowych (eng.k-positive indecomposable maps on matrix algebras).
 * 2015: B.A. Physics Science, University of Gdansk Thesis title: Badanie krzywej rotacji galaktyki (eng. Study of the galaxy’s rotation curve).
 
