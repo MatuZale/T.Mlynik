@@ -1,4 +1,4 @@
-#Porftolio 
+#Portfolio 
 
 ### Education
 * 2024 Ph.D., Physics Science, University of Gdansk Thesis title: Odwzorowania k-dodatnie w Fizyce (eng. k-positive maps in physics).
